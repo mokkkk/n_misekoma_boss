@@ -11,3 +11,5 @@ scoreboard players set #asam_const_120 AsaMatrix 120
 
 scoreboard players set #asam_const_sec AsaMatrix 20
 scoreboard players set #asam_const_min AsaMatrix 1200
+
+execute unless data storage mhdp: EnableBossSpawn run data modify storage mhdp: EnableBossSpawn set value 1b
