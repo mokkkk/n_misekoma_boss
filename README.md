@@ -7,7 +7,7 @@ Minecraftに，某ゲームのような雷狼竜をボスモンスターとし�
 
 ## 機能
 
-草原や森バイオームに居ると，まれに火竜が出現します．かなりの強敵ですので注意してください．
+草原や森バイオームに居ると，まれに雷狼竜が出現します．かなりの強敵ですので注意してください．
 
 何度も雷狼竜が出現して面倒臭くなったときは，/data modify storage mhdp: EnableBossSpawn set value 0b を実行してください．もう一度雷狼竜に会いたくなった時は，/data modify storage mhdp: EnableBossSpawn set value 1b を実行してください．
 
